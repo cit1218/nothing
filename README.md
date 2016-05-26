@@ -6,8 +6,7 @@
 >./configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info  --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++  --disable-dssi  --enable-libgcj-multifile  --with-ppl --with-cloog --with-tune=generic  --build=x86_64-redhat-linux --disable-multilib
 
 
-
-
+-----
 >./configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info  --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/jre-1.7.0-openjdk.x86_64  --enable-libgcj-multifile --enable-java-maintainer-mode  --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux --enable-multilib
  
  >yum install glibc-devel.i686
