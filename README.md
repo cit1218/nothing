@@ -12,3 +12,5 @@
  >yum install glibc-devel.i686
  
  >yum install gtk2-devel
+
+ >yum -y install libart_lgpl-devel
