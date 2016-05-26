@@ -15,4 +15,4 @@
 
  >yum -y install libart_lgpl-devel
  
- >yum -y install libXtst-devel
+ >yum -y install libXtst-devel libXtst-devel.i686
